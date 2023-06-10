@@ -1,0 +1,17 @@
+.maincontainer{
+    max-width: 70vw;
+    margin: 20px auto;
+}
+.maincontainer hr{
+    margin: 10px 0px;
+}
+.maincontainer p {
+    padding: 20px 0px;
+    line-height: 150%;
+}
+@media screen and (max-width : 600px) {
+    .maincontainer{
+        max-width: 90vw;
+        margin: 8px;
+    }
+  }
